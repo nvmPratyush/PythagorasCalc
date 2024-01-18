@@ -16,7 +16,7 @@ Welcome to PythagorasCalc, a Python project for calculating the hypotenuse of a 
 
 3. Run the Python script:
    ```bash
-   python pythagoras_calc.py
+   python main.py
    ```
 
 4. Input the base and height when prompted.
