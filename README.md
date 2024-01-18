@@ -6,7 +6,7 @@ Welcome to PythagorasCalc, a Python project for calculating the hypotenuse of a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PythagorasCalc.git
+   git clone https://github.com/Pratyush-developers/PythagorasCalc.git
    ```
 
 2. Navigate to the project directory:
