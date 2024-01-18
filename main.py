@@ -1,0 +1,1 @@
+print("Pythagorean theorem calculator")
