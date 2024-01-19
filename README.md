@@ -1,35 +1,44 @@
 # PythagorasCalc
 
-Welcome to PythagorasCalc, a Python project for calculating the hypotenuse of a right-angled triangle using the Pythagorean theorem.
+## Pythagorean Theorem Calculator
 
-"PythagorasCalc: A Python project that calculates the hypotenuse of a right-angled triangle using the Pythagorean theorem. Input the base and height to swiftly determine the length of the hypotenuse. Simple and efficient geometry tool for Python enthusiasts."
+A simple Pythagorean theorem calculator implemented in Python.
 
-## Usage
+### How to Use:
 
-1. Clone the repository:
+1. Ensure you have Python installed on your machine. If not, download and install it from [python.org](https://www.python.org/downloads/).
+
+2. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Pratyush-developers/PythagorasCalc.git
+   git clone https://github.com/YourUsername/PythagorasCalc.git
    ```
 
-2. Navigate to the project directory:
+3. Run the Python script.
    ```bash
-   cd PythagorasCalc
+   python pythagoras_calc.py
    ```
 
-3. Run the Python script:
+   **Note:** If you encounter an error related to Python or the math module, make sure both are installed. You can install the math module separately if needed.
+
    ```bash
-   python main.py
+   pip install math
    ```
 
-4. Input the base and height when prompted.
+4. Input the height and base of the triangle when prompted.
 
-## Example
+5. Get the calculated hypotenuse instantly.
 
-```bash
-Enter the base of the triangle: 3
-Enter the height of the triangle: 4
+### Example:
 
-The hypotenuse is: 5.0
+```plaintext
+Enter the height of the triangle: 3
+Enter the base of the triangle: 4
+
+The Hypotenuse of Pythagorean theorem is 5.0
 ```
 
-Enjoy calculating hypotenuses with PythagorasCalc! Feel free to contribute or provide feedback.
+Feel free to contribute, report issues, or suggest improvements!
+
+### License:
+
+This project is licensed under the [MIT License](LICENSE).
