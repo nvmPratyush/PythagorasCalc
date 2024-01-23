@@ -3,8 +3,7 @@ import math
 print("Pythagorean theorem calculator \n  \n")
 
 
-def main():
-    while True:
+while True:
         h = int(input("Enter the height of the triangle: "))
         b = int(input("Enter the base of the triangle: "))  
 
@@ -16,6 +15,4 @@ def main():
         ans = math.sqrt(hb)
 
         print("\n The Hypotenuse of Pythagorean theorem is " , ans, "\n \n \n \n")
-
-if __name__ = __main__ :
-    main()
+        
